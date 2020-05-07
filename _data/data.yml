@@ -41,12 +41,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Programming has always been a passion of mine since I started coding in grade 10, making simple calculator and tutor programs on Netbeans.
+      The thing I love about programming is that you have the ability to create something from nothing that can help make other's lives easier. 
+      
 education:
     - degree: BSc in Computer Science (current)
       university: University of Pretoria

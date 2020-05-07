@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Brett Fourie
     tagline: BSc Computer Science Student
-    avatar: IMG_0309.jpg.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: IMG_0309.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: brett4e@gmail.com
     phone: 079 574 8894
     website: brettfourie.github.io/online-cv/.com #do not add http://
-    linkedin: brettfourie
+    linkedin: brett-fourie-949021192
     github: BrettFourie
     gitlab:
     bitbucket:

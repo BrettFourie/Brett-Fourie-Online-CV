@@ -27,6 +27,9 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+        
+      - idiom: Afrikaans
+        level: Basic
 
     interests:
       - item: Gym

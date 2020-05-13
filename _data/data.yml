@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Brett Ross Fourie
     tagline: BSc Computer Science Student
-    avatar: IMG_0309.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: brett4e@gmail.com

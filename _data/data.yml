@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Brett Ross Fourie
-    tagline: BSc Computer Science Student
+    tagline: 3rd Year BSc Computer Science Student
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,7 +63,7 @@ projects:
         link: "https://github.com/gjcsup/cos301_teamgamma/"
         tagline: Mouthpiece is a fun phone app that synchronizes the lip movements of an animated image of a mouth with a voice stream recorded using the phone's microphone. The Mouthpiece is accompanied by a web service to support the installation, configuration and customization of Mouthpiece. I was part of a large team of students that developed the app as part of our Software Engineering module at UP."
       - title: Argus (Home Security System)
-        tagline: I worked on a team of 6 students developing a home security system that uses AI to detect and recognize people and alert the home owner of a possible intrusion. The recognition software was has an accompanying webapp to provide the user with a portal to view their security cameras, relative lists of users and people and update their profiles and settings.  The project was developed for Epi-Use Labs as part of a Software Engineering module at UP."
+        tagline: I worked in a team of 6 students developing a home security system that uses AI to detect and recognize people and alert the home owner of a possible intrusion. The recognition software was has an accompanying webapp to provide the user with a portal to view their security cameras, relative lists of users and people and update their profiles and settings.  The project was developed for Epi-Use Labs as part of a Software Engineering module at UP."
 
 
 publications:

@@ -75,17 +75,20 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: HTML5 & CSS
-        level: 95%
-        
+    toolset:     
       - name: Java
         level: 85%
 
       - name: C++
         level: 75%
         
+      - name: HTML5 & CSS
+        level: 95%
+        
       - name: Javascript & jQuery
+        level: 70%
+        
+      - name: PHP
         level: 70%
 
       - name: Android
@@ -93,6 +96,15 @@ skills:
         
       - name: Assembly
         level: 60%
+        
+      - name: SQL
+        level: 85%
+        
+      - name: Angular
+        level: 70%
+        
+      - name: Spring
+        level: 50%
         
       - name: UI/UX Design
         level: 95%
